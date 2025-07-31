@@ -1,1 +1,1 @@
-# RockPaperScissors-MetaverseAssignment2
+# Rock Paper Scissors Multiplayer game inspired by Squid Games
